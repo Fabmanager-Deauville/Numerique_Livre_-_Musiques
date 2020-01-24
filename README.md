@@ -7,7 +7,7 @@ Installation (Windows) :
 * Installer Hairless MIDI Serial
 * Installer Loop MIDI
 
-
+## EN
 *A Double interactive installation to explore the digital possibilities to create sound and graphism based on Arduino and Sonic Pi.*
 
 Setup (Windows) !
