@@ -1,5 +1,5 @@
 # Numérique, Livre & Musiques
-## FR
+## *FR*
 Une double installation interactive explorant les possiblités offertes par le numérique dans le domaine de la création sonore et graphique basées sur *Arduino* et *Sonic Pi*. 
 
 Installation (Windows) :
@@ -8,7 +8,7 @@ Installation (Windows) :
 * Installer Hairless MIDI Serial
 * Installer Loop MIDI
 
-## EN
+## *EN*
 A Double interactive installation to explore the digital possibilities to create sound and graphism based on Arduino and Sonic Pi.
 
 Setup (Windows) !
