@@ -11,7 +11,7 @@ Installation (Windows) :
 ## *EN*
 A Double interactive installation to explore the digital possibilities to create sound and graphism based on Arduino and Sonic Pi.
 
-Setup (Windows) !
+Setup (Windows) :
 * Install *Arduino*
 * Install *Sonic Pi*
 * Install *Hairless MIDI Serial*
