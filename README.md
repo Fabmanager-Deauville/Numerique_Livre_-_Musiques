@@ -1,4 +1,5 @@
 # Numérique, Livre & Musiques
+## FR
 Une double installation interactive explorant les possiblités offertes par le numérique dans le domaine de la création sonore et graphique basées sur *Arduino* et *Sonic Pi*. 
 
 Installation (Windows) :
